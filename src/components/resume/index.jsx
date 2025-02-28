@@ -341,6 +341,16 @@ const Resume = () => {
             <div className="resume_item resume_work">
               <Project projects={[...projects.slice(9, 11)]} />
             </div>
+          </div>
+        </Page>
+
+        <Page>
+          <SideBar />
+
+          <div className="resume_right">
+            <div className="resume_item resume_work">
+              <Project projects={[...projects.slice(11, 13)]} />
+            </div>
 
             <div className="resume_item resume_education">
               <div className="title">

@@ -1095,5 +1095,292 @@
       }
     ],
     "link": "https://neemiya.com/"
+  },
+
+  {
+    "id": 12,
+    "title": "Cadabams Doctor App",
+    "logo": "/img/cadabams/logo.png",
+    "description": "The Cadabams Doctor App represents a sophisticated healthcare management platform designed to integrate multiple specialized medical services under a single, cohesive digital ecosystem. This enterprise-grade solution bridges the gap between healthcare providers and patients while streamlining clinical operations and administrative workflows.",
+    "companyName": "Freelance",
+    "companySite": "https://main.d1elo2e7inmz35.amplifyapp.com/login/physio",
+    "workLogo": "/img/capauth/freelance.png",
+    "role": "Senior Software Engineer",
+    "data": [
+      {
+        "heading": "Electronic Health Records (EHR)",
+        "bullets": [
+          "Comprehensive patient profiling with demographic and medical history",
+          "Secure document management for lab results and medical imaging",
+          "Integration with clinical decision support systems",
+          "HIPAA-compliant data encryption and access controls"
+        ]
+      },
+      {
+        "heading": "Treatment Planning",
+        "bullets": [
+          "Customizable treatment protocol templates",
+          "Goal setting and milestone tracking",
+          "Integrated medication management",
+          "Automated reminder systems for treatment schedules"
+        ]
+      },
+      {
+        "heading": "Progress Tracking",
+        "bullets": [
+          "Quantitative metrics dashboard for tracking key performance indicators",
+          "Qualitative assessment tools for behavioral and therapeutic outcomes",
+          "Visual progress visualization with charts and graphs",
+          "Automated report generation for treatment progress summaries"
+        ]
+      },
+      {
+        "heading": "Appointment Management",
+        "bullets": [
+          "Real-time scheduling interface",
+          "Provider availability calendar",
+          "Automatic reminders and notifications",
+          "Wait list management system"
+        ]
+      },
+      {
+        "heading": "Exercise Prescription System",
+        "bullets": [
+          "Interactive exercise library with multimedia demonstrations",
+          "Custom workout plan creator",
+          "Progress tracking and adjustment tools",
+          "Patient compliance monitoring"
+        ]
+      },
+      {
+        "heading": "Assessment Documentation",
+        "bullets": [
+          "Standardised assessment forms",
+          "Automated scoring systems",
+          "Progress comparison tools",
+          "Multi-discipline collaboration features"
+        ]
+      },
+      {
+        "heading": "Treatment Outcome Tracking",
+        "bullets": [
+          "Evidence-based measurement tools",
+          "Statistical analysis dashboard",
+          "Outcome reporting system",
+          "Research data export capabilities"
+        ]
+      },
+      {
+        "heading": "Practice Management",
+        "bullets": [
+          "Resource allocation system",
+          "Workflow optimisation tools",
+          "Performance analytics dashboard",
+          "Quality assurance monitoring"
+        ]
+      },
+
+      {
+        "heading": "Billing Integration",
+        "bullets": [
+          "Insurance claims processing",
+          "Payment gateway integration",
+          "Invoice management system",
+          "Revenue cycle management"
+        ]
+      },
+      {
+        "heading": "Staff Management",
+        "bullets": [
+          "Shift scheduling system",
+          "Skill matrix management",
+          "Time-off request handling",
+          "Performance evaluation tools"
+        ]
+      },
+      {
+        "heading": "Reporting Systems",
+        "bullets": [
+          "Operational dashboards",
+          "Clinical outcome reports",
+          "Financial analytics",
+          "Regulatory compliance reporting"
+        ]
+      },
+      {
+        "heading": "Technical Implementation Highlights",
+        "bullets": [
+          "Built using modern web technologies for maximum compatibility",
+          "Responsive design supporting desktop and mobile access",
+          "Robust security framework with multi-factor authentication",
+          "Scalable architecture supporting growing user base",
+          "Comprehensive backup and disaster recovery systems"
+        ]
+      },
+      {
+        "heading": "Impact and Benefits",
+        "bullets": [
+          "Enhanced patient engagement through accessible care management",
+          "Improved operational efficiency for healthcare providers",
+          "Streamlined communication between all stakeholders",
+          "Data-driven decision making through integrated analytics",
+          "Reduced administrative burden on staff"
+        ]
+      }
+    ],
+    "technologies": [
+      "Javascript",
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "Tailwind CSS",
+      "Material UI",
+      "Strapi Payment",
+      "Stripe CRM"
+    ],
+    "images": [
+      {
+        "src": "/img/cadabams/img1.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/cadabams/img2.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/cadabams/img3.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/cadabams/img4.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/cadabams/img5.png",
+        "alt": "Description of image 3"
+      }
+    ],
+    "link": "https://main.d1elo2e7inmz35.amplifyapp.com/login/physio"
+  },
+
+  {
+    "id": 13,
+    "title": "MyUiversalLab",
+    "logo": "/img/patientPortal/logo.png",
+    "description": "PatientPortal is a comprehensive digital healthcare platform designed to streamline access to medical services for patients, families, administrators, and employees. It offers secure login, appointment scheduling, lab results, telemedicine, and robust reporting tools to enhance patient care and operational efficiency.",
+    "companyName": "Freelance",
+    "companySite": "https://myuniversallab.app/login.aspx",
+    "workLogo": "/img/capauth/freelance.png",
+    "role": "Project Manager & Senior Software Engineer",
+    "data": [
+      {
+        "heading": "Patient Login",
+        "bullets": [
+          "Secure authentication for patients.",
+          "Dashboard with personalized medical records, appointments, and prescriptions."
+        ]
+      },
+      {
+        "heading": "Family Account Management",
+        "bullets": [
+          "Options to add and manage family member profiles.",
+          "Access to dependents' health records and scheduling."
+        ]
+      },
+      {
+        "heading": "Admin Login",
+        "bullets": [
+          "Dedicated secure access for administrators.",
+          "Role-based management features."
+        ]
+      },
+      {
+        "heading": "Administrative Dashboard",
+        "bullets": [
+          "Overview of user activities, system performance, and notifications.",
+          "Tools for managing appointments, records, and system settings."
+        ]
+      },
+      {
+        "heading": "Employee Login",
+        "bullets": [
+          "Secure access for healthcare professionals and support staff.",
+          "Individual dashboards tailored to their roles."
+        ]
+      },
+      {
+        "heading": "Employee Features",
+        "bullets": [
+          "Scheduling tools and task management.",
+          "Communication module for internal messaging and collaboration."
+        ]
+      },
+      {
+        "heading": "Appointment Scheduling",
+        "bullets": [
+          "Book, reschedule, or cancel appointments.",
+          "Integration with calendar systems."
+        ]
+      },
+      {
+        "heading": "Lab & Diagnostic Reports",
+        "bullets": [
+          "Access to lab results, imaging, and diagnostic test reports.",
+          "Tools to compile and generate various medical reports."
+        ]
+      },
+      {
+        "heading": "Types of Reports",
+        "bullets": [
+          "Medical history, lab reports, appointment summaries, and financial billing.",
+          "Customizable report filters for detailed analysis."
+        ]
+      },
+      {
+        "heading": "Medical History",
+        "bullets": [
+          "Access and update past treatments, diagnoses, and vaccination records.",
+          "Manage contact information, insurance details, and emergency contacts."
+        ]
+      }
+    ],
+    "technologies": [
+      "Asp.net",
+      "AjaxControlToolkit",
+      "c#",
+      "Javascript",
+      "SQL Server",
+      "ASP.NET Identity",
+      "Bootstrap",
+      "Swagger",
+      "Entity Framework Core"
+    ],
+    "images": [
+      {
+        "src": "/img/patientPortal/login.png",
+        "alt": "Secure authentication for patients, families, administrators, and employees ensuring personalized and protected access."
+      },
+      {
+        "src": "/img/patientPortal/events.png",
+        "alt": "Track and manage system notifications and user activities, such as appointments and alerts, to keep everyone informed in real time."
+      },
+      {
+        "src": "/img/patientPortal/AddNew.png",
+        "alt": "Allow users to quickly submit new requests for tests, consultations, or services through an intuitive form."
+      },
+      {
+        "src": "/img/patientPortal/Export.png",
+        "alt": "Enable easy export of data and reports into various formats (CSV, PDF) for analysis and record-keeping."
+      },
+      {
+        "src": "/img/patientPortal/order.png",
+        "alt": "Process and monitor orders for medications, tests, or supplies seamlessly within the portal."
+      },
+      {
+        "src": "/img/patientPortal/Provider.png",
+        "alt": "Maintain a directory of healthcare providers, facilitating appointment scheduling, communication, and service tracking."
+      }
+    ],
+    "link": "https://myuniversallab.app/login.aspx"
   }
 ]
